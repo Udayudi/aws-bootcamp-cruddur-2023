@@ -1,4 +1,7 @@
 # Week 0 — Billing and Architecture
 
+### Napkin Diagram
+![napkin][def]
 
-![Napkin](_docs/assets/napkin.jpg)
+
+[def]: /_docs/assets/napkin.png
