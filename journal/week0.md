@@ -45,3 +45,7 @@
 
 
 - [ ] [Logical Digram - AWS Project Bootcamp](https://lucid.app/lucidchart/eee9089f-fa22-44a3-85c5-b34a4b3ef10a/edit?viewport_loc=-730%2C62%2C3584%2C1502%2C0_0&invitationId=inv_35c4bcba-2be4-465f-8814-200df3e7fc89)
+
+![LogicalDigram][LogicalDigram]
+
+[LogicalDigram]: /_docs/assets/Logical%20Digram%20-%20AWS%20Project%20Bootcamp%20.jpeg
